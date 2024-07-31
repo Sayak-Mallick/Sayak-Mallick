@@ -12,4 +12,4 @@
 - ⚡ Fun fact: ...
 -->
 
-![](https://leetcard.jacoblin.cool/jacoblincool?cache=0)
+![](https://leetcard.jacoblin.cool/Sayak-Mallick?cache=0)
