@@ -26,12 +26,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Sayak-Mallick&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sayak-Mallick&show_icons=true&locale=en&layout=compact" alt="Sayak-Mallick" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sayak-Mallick&show_icons=true&locale=en" alt="Sayak-Mallick" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sayak-Mallick&" alt="Sayak-Mallick" /></p>
-
-
 ![](https://leetcard.jacoblin.cool/Sayak-Mallick?cache=0)
