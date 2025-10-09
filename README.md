@@ -26,4 +26,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Sayak-Mallick&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![](https://leetcard.jacoblin.cool/Sayak-Mallick?cache=0)
