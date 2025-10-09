@@ -1,11 +1,4 @@
 <!-- ![gitartwork](gitartwork.svg) -->
-
-<h1 align="center">Hello 👋, I'm Sayak Mallick</h1>
-<h3 align="center">I'm a passionate front-end developer specialised in building exceptional web apps based in West Bengal, India</h3>
-<img align="right" width="400" alt="coding"  src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif"/>
-
-
-
 <h1 align="center">Hi 👋, I'm Sayak Mallick</h1>
 <h3 align="center">I'm a passionate front-end developer specialised in building exceptional web apps based in West Bengal, India</h3>
 
